@@ -2,7 +2,7 @@
 very_simple_AR(chessboard pyramid) by open CV  
 ------------------------------------------------------  
 
-#Introduction  
+# Introduction  
 
 make a AR pyramid with chessboard points    
 input: videofile's name, calibration data(K,dist_coeff,board_pattern,board_cellsize)   
